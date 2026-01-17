@@ -278,6 +278,9 @@ async function main() {
       caption,
       footer,
       footer_en,
+      stars:0,
+      portfolio:false,
+      visible:true,
       ...metadata
     };
   });
