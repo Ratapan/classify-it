@@ -12,8 +12,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "csv-writer": "^1.6.0",
     "dotenv": "^17.2.3",
+    "exifreader": "^4.36.0",
     "openai": "^6.15.0"
   }
 }

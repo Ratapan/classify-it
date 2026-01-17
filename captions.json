@@ -1,0 +1,93 @@
+[
+  {
+    "url": "https://assets.javiersabando.lat/blog/images/250927/7326.webp",
+    "file": "7326.webp",
+    "categories": [
+      "arquitectura",
+      "ciudad",
+      "nocturna",
+      "paisaje urbano"
+    ],
+    "category": "arquitectura",
+    "caption": "La imagen muestra una calle empinada en una zona residencial durante la noche. Hay escalones y barandas que guían el camino en la pendiente. Varias lámparas de calle emiten luz amarilla que ilumina parcialmente las casas y la vegetación alrededor. Las casas son de estilo antiguo, construidas principalmente en madera y metal, y se destacan contra un cielo oscuro sin luz ambiental visible.",
+    "footer": "Calle empinada iluminada por faroles en un barrio residencial en la noche.",
+    "footer_en": "Steep street lit by street lamps in a residential neighborhood at night.",
+    "focal": "50 mm",
+    "apertura": 4.5,
+    "iso": 1000,
+    "velocidad": "1/8",
+    "camera": "SONY ILCE-7RM3",
+    "lens": "FE 50mm F1.8", 
+    "stars":0,
+    "portfolio":false,
+    "visible":true
+  },
+  {
+    "url": "https://assets.javiersabando.lat/blog/images/250927/7411.webp",
+    "file": "7411.webp",
+    "categories": [
+      "ciudad",
+      "arquitectura",
+      "calle",
+      "arte urbano",
+      "animales"
+    ],
+    "category": "ciudad",
+    "caption": "La imagen muestra una escalera colorida con graffiti en las paredes que la rodean, ubicada entre dos edificaciones desgastadas por el tiempo. Al frente, un perro marrón camina sobre un camino empedrado. Hay un cartel de señalización que indica horarios para sacar la basura en el barrio, y al fondo se observa una persona subiendo las escaleras cargando cilindros de gas. El entorno refleja un barrio con arte y cultura urbana mezclado con aspectos cotidianos de la vida vecinal.",
+    "footer": "Escalera con graffiti y perro en calle empedrada en un barrio urbano.",
+    "footer_en": "Staircase with graffiti and dog on a cobblestone street in an urban neighborhood.",
+    "focal": "50 mm",
+    "apertura": 2.5,
+    "iso": 250,
+    "velocidad": "1/500",
+    "camera": "SONY ILCE-7RM3",
+    "lens": "FE 50mm F1.8",
+    "stars":0,
+    "portfolio":false,
+    "visible":true
+  },
+  {
+    "url": "https://assets.javiersabando.lat/blog/images/250927/7413.webp",
+    "file": "7413.webp",
+    "categories": [
+      "arquitectura",
+      "arte urbano",
+      "ciudad"
+    ],
+    "category": "arquitectura",
+    "caption": "Imagen de una calle empinada con edificios de diferentes colores y estilos arquitectónicos. Se observan murales artísticos en las paredes, incluyendo un gran rostro femenino en blanco y negro, y una serie de dibujos en tonos pastel con personajes y animales. También hay grafitis y un cartel de tránsito. Al fondo, vegetación y un cielo azul complementan la escena urbana.",
+    "footer": "Fachadas coloridas con murales y grafitis en una calle empinada de Valparaíso.",
+    "footer_en": "Colorful facades with murals and graffiti on a steep street in Valparaíso.",
+    "focal": "50 mm",
+    "apertura": 4,
+    "iso": 100,
+    "velocidad": "1/640",
+    "camera": "SONY ILCE-7RM3",
+    "lens": "FE 50mm F1.8",
+    "stars":3,
+    "portfolio":true,
+    "visible":true
+  },
+  {
+    "url": "https://assets.javiersabando.lat/blog/images/250100_chiloe/_1090776.jpg",
+    "file": "_1090776.jpg",
+    "categories": [
+      "animales",
+      "naturaleza",
+      "paisaje"
+    ],
+    "category": "animales",
+    "caption": "Un grupo de pingüinos está reunido sobre una pendiente rocosa, con vegetación esparcida en el costado izquierdo. El cielo azul despejado forma el fondo de la imagen, resaltando la silueta de estas aves marinas en su hábitat natural.",
+    "footer": "Pingüinos agrupados en una zona rocosa bajo un cielo despejado.",
+    "footer_en": "Penguins gathered on a rocky area under a clear sky.",
+    "focal": "79.8 mm",
+    "apertura": 4,
+    "iso": 100,
+    "velocidad": "1/1250",
+    "camera": "Panasonic DMC-FZ300",
+    "lens": "N/A",
+    "stars":5,
+    "portfolio":true,
+    "visible":true
+  }
+]
